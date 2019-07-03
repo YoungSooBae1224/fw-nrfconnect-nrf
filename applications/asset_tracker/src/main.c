@@ -1,4 +1,4 @@
-/*
+﻿/*
  * Copyright (c) 2018 Nordic Semiconductor ASA
  *
  * SPDX-License-Identifier: LicenseRef-BSD-5-Clause-Nordic
@@ -18,7 +18,6 @@
 #include <lte_lc.h>
 #include <modem_info.h>
 #endif
-
 
 #include "orientation_detector.h"
 
